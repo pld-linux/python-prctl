@@ -7,7 +7,7 @@
 Summary:	Allows to control specific characteristics of a process’ behaviour
 Name:		python-%{module}
 Version:	1.5.0
-Release:	4
+Release:	5
 License:	GPL v3
 Group:		Libraries/Python
 Source0:	https://github.com/seveas/python-prctl/archive/v%{version}.tar.gz
